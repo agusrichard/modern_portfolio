@@ -357,4 +357,6 @@ main {
     grid-template-columns: 1fr; }
   .modal .modal-content {
     width: 95%;
-    height: 50%; } }
+    height: 50%; }
+  .boxes div {
+    font-size: 1.5rem; } }
